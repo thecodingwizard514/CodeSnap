@@ -3,20 +3,20 @@
   <h1>CodeSnap – Create, Run & Share Code Snippets</h1>
   <a href="https://codesnap.pro/">View Demo</a>
   ·
-  <a href="https://github.com/RanitManik/CodeSnap/issues/new?assignees=&labels=&projects=&template=bug_report.yml&title=">Report Bug</a>
+  <a href="https://github.com/thecodingwizard514/CodeSnap/issues/new?assignees=&labels=&projects=&template=bug_report.yml&title=">Report Bug</a>
   ·
-  <a href="https://github.com/RanitManik/CodeSnap/issues/new?assignees=&labels=&projects=&template=feature_request.yml&title=">Request Feature</a>
+  <a href="https://github.com/thecodingwizard514/CodeSnap/issues/new?assignees=&labels=&projects=&template=feature_request.yml&title=">Request Feature</a>
   <br/>  
   <br/>
 
 ![excited](https://github.com/user-attachments/assets/48f47285-cfe2-41db-8b50-a6a57987c6e9)
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/CodeSnap)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/CodeSnap)
-![GitHub License](https://img.shields.io/github/license/RanitManik/CodeSnap)
-![GitHub stars](https://img.shields.io/github/stars/RanitManik/CodeSnap?style=default)
-![GitHub forks](https://img.shields.io/github/forks/RanitManik/CodeSnap?style=default)
-![Wakatime](https://wakatime.com/badge/github/RanitManik/CodeSnap.svg)
+![GitHub Created At](https://img.shields.io/github/created-at/thecodingwizard514/CodeSnap)
+![GitHub repo size](https://img.shields.io/github/repo-size/thecodingwizard514/CodeSnap)
+![GitHub License](https://img.shields.io/github/license/thecodingwizard514/CodeSnap)
+![GitHub stars](https://img.shields.io/github/stars/thecodingwizard514/CodeSnap?style=default)
+![GitHub forks](https://img.shields.io/github/forks/thecodingwizard514/CodeSnap?style=default)
+![Wakatime](https://wakatime.com/badge/github/thecodingwizard514/CodeSnap.svg)
 </div>  
 
 Welcome to **CodeSnap**, a lightweight app for creating, sharing, running, and viewing code snippets with ease. Built to
@@ -84,7 +84,7 @@ and test code within seconds.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RanitManik/CodeSnap.git
+   git clone https://github.com/thecodingwizard514/CodeSnap.git
    cd CodeSnap
    ```
 
@@ -177,60 +177,4 @@ Contributions to CodeSnap are welcome! To contribute:
    ```
 
 5. Open a pull request, detailing the changes and improvements you’ve made.
-
-## Links
-
-| Environment        | Link                                                       |
-|--------------------|------------------------------------------------------------|
-| Development Server | [beta.codesnap.pro](https://beta.codesnap.pro)             |
-| Production Server  | [codesnap.pro](https://www.codesnap.pro)                   |
-
-## Contact
-
-<table>
-  <tr>
-    <th></th>
-    <th>Social Media</th>
-    <th>Username</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
-    <td>Email</td>
-    <td><code>ranitmanik.dev@gmail.com</code></td>
-    <td><a href="mailto:ranitmanik.dev@gmail.com" target="_blank">Email</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
-    <td>LinkedIn</td>
-    <td><code>Ranit Manik</code></td>
-    <td><a href="https://www.linkedin.com/in/ranit-manik/" target="_blank">LinkedIn</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /></td>
-    <td>Instagram</td>
-    <td><code>ranit_manik_</code></td>
-    <td><a href="https://www.instagram.com/ranit_manik_/" target="_blank">Instagram</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /></td>
-    <td>Facebook</td>
-    <td><code>RanitKumarManik</code></td>
-    <td><a href="https://www.facebook.com/RanitKumarManik/" target="_blank">Facebook</a></td>
-</tr>
-</table>
-
-_Feel free to reach out if you have questions or just want to chat about web adventures!_
-
-## Acknowledgments
-
-This project wouldn't be possible without the collaboration and resources of the developer community. Thanks to the
-community and tools like React and Nextjs. Special appreciation goes to friends and family. I hope it inspires further
-learning.
-
----
-
-<p align="center">
-   Thank you for using <strong>CodeSnap</strong>! Happy coding! 👨‍💻
-</p>
 
